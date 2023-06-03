@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.otus.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-03T09:12:32" hostname="DESKTOP-2L7R8M3" time="5.495">
+  <properties/>
+  <testcase name="shouldInvokeCorrectProcessorsAccordingItsBindings()" classname="ru.otus.AppTest" time="5.495"/>
+  <system-out><![CDATA[2023-06-03T12:12:32.920424900 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:32.920424900, room='Комната: 2', value=0.27148845122024656}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:32.920424900, room='Комната: 2', value=0.27148845122024656}
+2023-06-03T12:12:33.423275300 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:33.423275300, room='Комната: 1', value=NaN}
+2023-06-03T12:12:33.926057 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:33.926057, room='Комната: 2', value=0.13969443595261843}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:33.926057, room='Комната: 2', value=0.13969443595261843}
+2023-06-03T12:12:34.428767100 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:34.428767100, room='Комната: 3', value=0.43769181036953053}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:34.428767100, room='Комната: 3', value=0.43769181036953053}
+2023-06-03T12:12:34.915426500 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:34.915426500, room='Комната: 2', value=0.06448756651298315}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:34.915426500, room='Комната: 2', value=0.06448756651298315}
+2023-06-03T12:12:35.418284700 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:35.418284700, room='Комната: 1', value=0.3895168263907963}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:35.418284700, room='Комната: 1', value=0.3895168263907963}
+2023-06-03T12:12:35.920526300 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:35.920526300, room='Комната: 4', value=0.9376120371061167}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:35.920526300, room='Комната: 4', value=0.9376120371061167}
+Обработка данных по заданной комнате (Комната: 4) SensorData{measurementTime=2023-06-03T12:12:35.920526300, room='Комната: 4', value=0.9376120371061167}
+2023-06-03T12:12:36.423414500 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:36.423414500, room='Комната: 2', value=0.9877281902503741}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:36.423414500, room='Комната: 2', value=0.9877281902503741}
+2023-06-03T12:12:36.926406600 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:36.926406600, room='Комната: 4', value=0.8097923963064669}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:36.926406600, room='Комната: 4', value=0.8097923963064669}
+Обработка данных по заданной комнате (Комната: 4) SensorData{measurementTime=2023-06-03T12:12:36.926406600, room='Комната: 4', value=0.8097923963064669}
+2023-06-03T12:12:37.429306200 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:37.429306200, room='Комната: 3', value=0.2300127872897182}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:37.429306200, room='Комната: 3', value=0.2300127872897182}
+2023-06-03T12:12:37.916622300 Сформированы новые данные датчика: SensorData{measurementTime=2023-06-03T12:12:37.916622300, room='Комната: 1', value=0.8842960493231948}
+Обработка данных: SensorData{measurementTime=2023-06-03T12:12:37.916622300, room='Комната: 1', value=0.8842960493231948}
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Class path contains multiple SLF4J providers.
+SLF4J: Found provider [org.slf4j.simple.SimpleServiceProvider@4bff7da0]
+SLF4J: Found provider [org.slf4j.reload4j.Reload4jServiceProvider@3f1d2e23]
+SLF4J: Found provider [org.slf4j.jul.JULServiceProvider@536dbea0]
+SLF4J: Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@47c81abf]
+SLF4J: Found provider [org.slf4j.nop.NOPServiceProvider@776a6d9b]
+SLF4J: See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual provider is of type [org.slf4j.simple.SimpleServiceProvider@4bff7da0]
+]]></system-err>
+</testsuite>
